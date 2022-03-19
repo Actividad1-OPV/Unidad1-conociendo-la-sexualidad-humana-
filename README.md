@@ -1,5 +1,4 @@
 # Unidad1-conociendo-la-sexualidad-humana-
-#Unidad 1:conociendo-la-sexualidad-humana-
 
 <html>
 <body>
@@ -7,7 +6,6 @@
 <font color="white">
 <center>
 <font face="Century Gothic">
-<h1>Unidad I: Conociendo la Sexualidad Humana</h1>
 <hr>
 <h2>Temas a Exponer</h2>
 </center>
