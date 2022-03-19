@@ -2,8 +2,8 @@
 
 <html>
 <body>
-<body bgcolor="black">
-<font color="white">
+<body bgcolor="white">
+<font color="black">
 <center>
 <font face="Century Gothic">
 <hr>
@@ -19,7 +19,7 @@
 <h2>5- Briant Steven Perez Calderón: <a href="Avance1.html">Sexualidad y Cultura</a></h2><br>
 <h2>6- Melvin Alejandro Martinez Pérez: <a href="Avance1.html">Comportamiento Sexual Adolescente</a></h2><br>
 <h2>7- Jorge Carlos Lopez Martinez: <a href="Avance1.html">Sexualidad Responsable</a></h2><br>
-<h2>8- David Josué Pacheco Rodriguez: <a href="Avance1.html">Maternidad y Paternidad Precoz</a></h2><br>
+<h2>8- David Josue Pacheco Rodriguez: <a href="Avance1.html">Maternidad y Paternidad Precoz</a></h2><br>
 <h2>9- Josue Alexander Mezquita Medina: <a href="Avance1.html">Métodos para el Control de la Natalidad</a></h2><br>
 <h2>10- Dennis: <a href="Avance1.html">Infecciones de Transmisión Sexual</a></h2><br>
 <h2>11- Michael Alexander Mendoza Caballero: <a href="Avance1.html">Discriminación Sexual</a></h2><br>
