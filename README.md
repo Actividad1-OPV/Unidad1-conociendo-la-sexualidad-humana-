@@ -1,6 +1,6 @@
 # Unidad1-conociendo-la-sexualidad-humana-
-<body bgcolor="white">
-<font color="black">
+<body bgcolor="black">
+<font color="white">
 <font face="Century Gothic">
 <hr>
 <h2>Temas a Exponer</h2>
