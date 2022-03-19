@@ -1,6 +1,6 @@
 # Unidad1-conociendo-la-sexualidad-humana-
 
-<html>
+<html> 
 <body>
 <body bgcolor="white">
 <font color="black">
@@ -23,4 +23,5 @@
 <h2>11- Michael Alexander Mendoza Caballero: <a href="Avance1.html">Discriminación Sexual</a></h2><br>
 <h2>12- Jose Luis Zaldaña Erazo: <a href="El Matrimonio.html">Matrimonio</a></h2><br>
 <h2>13- Sergio Ofir Pérez Flores: <a href="Avance1.html">Divorcio</a></h2><br>
-
+  </body>
+  </html>
