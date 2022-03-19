@@ -4,11 +4,9 @@
 <body>
 <body bgcolor="white">
 <font color="black">
-<center>
 <font face="Century Gothic">
 <hr>
 <h2>Temas a Exponer</h2>
- 
 <br>
 <br>
 <left>
