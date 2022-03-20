@@ -11,4 +11,5 @@
 <h2>-Docente:Flor de Maria Portillo Alfaro </h2><br>
 <h2>- Representantes:</h2><br>
 <h2>•Giovanni Alexander Zepeda Martinez </h2><br>
-<h2>5•Daniel Edgardo Perez Escobar</h2><br>
+<h2>•Daniel Edgardo Perez Escobar</h2><br>
+<h2>•Jose Alberto Silva Regalo
