@@ -1,4 +1,6 @@
 # Unidad1-conociendo-la-sexualidad-humana-
+<html>
+  <body>
 <body bgcolor="whitw">
 <font color="black">
 <font face="Century Gothic">
@@ -15,6 +17,6 @@
 <h2>•Jose Alberto Silva Regalo
 
   
-  
-  
-  < a  href =" Unidad 1 Conociendo la Sexualidad Humana.html " > Indice </ a > </ h2 > < br >
+<h2>< a  href =" Unidad 1 Conociendo la Sexualidad Humana.html " > Indice </ a > </ h2 > < br >
+ </ body>
+  </ html> 
