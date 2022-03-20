@@ -14,9 +14,7 @@
 <h2>- Representantes:</h2><br>
 <h2>•Giovanni Alexander Zepeda Martinez </h2><br>
 <h2>•Daniel Edgardo Perez Escobar</h2><br>
-<h2>•Jose Alberto Silva Regalo
-
-  
-<h2>< a  href =" Unidad 1 Conociendo la Sexualidad Humana.html " > Indice </ a > </ h2 > < br >
+<h2>•Jose Alberto Silva Regalo 
+<h2><a href =" Unidad 1 Conociendo la Sexualidad Humana.html " > Indice </a></h2><br>
  </ body>
   </ html> 
