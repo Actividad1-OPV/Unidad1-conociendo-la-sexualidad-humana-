@@ -1,7 +1,7 @@
 
 <body>
-<body bgcolor="black">
-<font color="white">
+<body bgcolor="white">
+<font color="black">
 <center>
 <font face="Century Gothic">
 <h1>Centro Escolar INSA</h1>
@@ -54,4 +54,6 @@ La información de dicho proyecto ha sido extraído de:<br>
 <a href="https://youtu.be/j7UfEup8T_Q">Identidad de Género - Educación Sexual</a><br>
 <a href="https://youtu.be/FB-foMxkJis">¿Qué es la Amistad y su importancia?</a><br>
 <a href="https://youtu.be/r-Cfil-yBVY">Diferencias entre Enamoramiento y Amor</a><br>
-<br>
+<h2><a href =" Unidad 1 Conociendo la Sexualidad Humana.html " > Indice </a></h2><br>
+  <br>
+  
