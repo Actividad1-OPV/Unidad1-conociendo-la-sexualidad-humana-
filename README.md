@@ -8,7 +8,7 @@
 <img src="insa.jpeg" width="200" height="200"/><br>
 <hr>
 <h2>Unidad I: Conociendo la Sexualidad Humana</h2>
-</center>
+</ center>
 <left>
 <font size="5">
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Materia:</b> OPV<br>
@@ -42,8 +42,8 @@
 <br>
 <br>
 <br>
-</font size="5">
-</left>
+</ font size="5">
+</ left>
 <center>
 <font size="3">
 La información de dicho proyecto ha sido extraído de:<br>
